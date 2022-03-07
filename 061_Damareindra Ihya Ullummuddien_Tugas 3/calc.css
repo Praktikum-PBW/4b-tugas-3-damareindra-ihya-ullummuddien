@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+.isi{
+    line-height: 1.5;
+    margin: 20 390 50 550;
+}
+#button{
+    margin: 0 10 0 5;
+}
+
+input[type=text]{
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+     border-radius: 20px;
+     border: 1px solid #2d9fd9;
+     color: #a0d18c;
+     width: 250px;
+     height: 30px;
+     padding-left: 10px;
+    }
+
+.header{
+    text-align: center;
+    margin-top: 50;
+}
+
+body{
+    background-color: rgb(128, 139, 235);
+}
